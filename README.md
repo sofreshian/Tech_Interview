@@ -1,5 +1,5 @@
 <div align=center>
-<h1> FE18-Tech-Interview </h1>
+<h1> FDS18-Tech-Interview </h1>
 <img width="300px" src="https://www.pinclipart.com/picdir/big/15-151793_download-rubber-duck-png-clipart-rubber-duck-clip.png"/>
 <p>패스트캠퍼스 프론트엔드 과정 18기 수강생을 위한 면접질문 모음 레포</p>
 </div>

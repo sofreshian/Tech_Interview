@@ -22,8 +22,9 @@
    - [데이터베이스](https://github.com/FC-FrontEnd-School/FE18-Tech-Interview/tree/main/CS/database)
 
 3. [Frontend](#Frontend)
-   - [Browser](https://github.com/FC-FrontEnd-School/FE18-Tech-Interview/tree/main/Browser)
-   - [Frontend](https://github.com/FC-FrontEnd-School/FE18-Tech-Interview/tree/main/Frontend)
+
+   - [Browser](https://github.com/FC-FrontEnd-School/FE18-Tech-Interview/tree/main/Frontend/Browser)
+   - [Frontend](https://github.com/FC-FrontEnd-School/FE18-Tech-Interview/tree/main/Frontend/Frontend)
 
 - [그 외 좋은 자료 추천](https://github.com/FC-FrontEnd-School/FE18-Tech-Interview/tree/main/etc)
 

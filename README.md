@@ -1,30 +1,39 @@
 <div align=center>
-<h1> FDS18-Tech-Interview </h1>
-<img width="300px" src="https://www.pinclipart.com/picdir/big/15-151793_download-rubber-duck-png-clipart-rubber-duck-clip.png"/>
-<p>패스트캠퍼스 프론트엔드 과정 18기 수강생을 위한 면접질문 모음 레포</p>
+   <h1> FDS18-Tech-Interview </h1>
+   <img width="300px" src="https://www.pinclipart.com/picdir/big/15-151793_download-rubber-duck-png-clipart-rubber-duck-clip.png"/>
+   <p>패스트캠퍼스 프론트엔드 과정 18기 수강생을 위한 면접질문 모음 레포</p>
 </div>
 
 > 러버덕 진행 시 컨텐츠로 활용될 주제 모음입니다. 자신의 답변은 `Pull Request`로 공유주세요! 건의사항이나 질문은 `Issue`로 참여해주시면 됩니다.
 
-# :memo: 답변저장소
+<br/>
+
+## 답변저장소
 
 1. [Language](#Language)
-    - [Javscript](https://github.com/FC-FrontEnd-School/FE18-Tech-Interview/tree/master/Javascript)
-  
+
+   - [Javscript](https://github.com/FC-FrontEnd-School/FE18-Tech-Interview/tree/main/Language/javascript)
+
 2. [CS](#CS)
-    - [네트워크](https://github.com/FC-FrontEnd-School/FE18-Tech-Interview/tree/master/Network)
-    - [자료구조](https://github.com/FC-FrontEnd-School/FE18-Tech-Interview/tree/master/DataStructure)
-    - [운영체제](https://github.com/FC-FrontEnd-School/FE18-Tech-Interview/tree/master/OS)
-    - [데이터베이스](https://github.com/FC-FrontEnd-School/FE18-Tech-Interview/tree/master/Database)
+
+   - [네트워크](https://github.com/FC-FrontEnd-School/FE18-Tech-Interview/tree/main/CS/network)
+   - [자료구조](https://github.com/FC-FrontEnd-School/FE18-Tech-Interview/tree/main/CS/data-structure)
+   - [운영체제](https://github.com/FC-FrontEnd-School/FE18-Tech-Interview/tree/main/CS/OS)
+   - [데이터베이스](https://github.com/FC-FrontEnd-School/FE18-Tech-Interview/tree/main/CS/database)
 
 3. [Frontend](#Frontend)
-    - [Frontend](https://github.com/FC-FrontEnd-School/FE18-Tech-Interview/tree/master/Frontend)
-    
-- [그 외 좋은 자료 추천](https://github.com/FC-FrontEnd-School/FE18-Tech-Interview/tree/master/etc)
+   - [Browser](https://github.com/FC-FrontEnd-School/FE18-Tech-Interview/tree/main/Browser)
+   - [Frontend](https://github.com/FC-FrontEnd-School/FE18-Tech-Interview/tree/main/Frontend)
 
+- [그 외 좋은 자료 추천](https://github.com/FC-FrontEnd-School/FE18-Tech-Interview/tree/main/etc)
 
-# 질문 목록
-> PR로 contribute해보세요!
+<br/>
+
+## 질문 목록
+
+PR로 contribute해보세요!
+
+---
 
 # Language
 
@@ -39,9 +48,30 @@
 - JS의 `this`가 참조하는 값을 설명
 - JS의 비동기 처리 방식을 설명
 
+<br/>
+
+---
+
 # CS
 
+## 자료구조
+
+- Heap과 Stack의 차이
+- Binary Search Tree 에 대해 알고 있는가, 설명해달라
+
+<br/>
+
+---
+
 # Frontend
+
+## Browser
+
+- 브라우저의 렌더링 동작과정을 짧게 설명
+- SSR의 정의와 관련 경험
+- 브라우저 저장소의 종류
+
+## Frontend
 
 - 프론트엔드 빌드 시스템을 설명
 - 모듈 번들러의 역할과 종류
@@ -49,5 +79,6 @@
 - “기획 - 디자인 - API 개발 - 프런트엔드 개발”의 서비스 절차에서 프런트엔드 개발자의 역할은 무엇이라고 생각하는가
 - 백엔드 개발 경험이 있는가
 
+---
 
-- Ref : https://github.com/JaeYeopHan/Interview_Question_for_Beginner
+Reference : https://github.com/JaeYeopHan/Interview_Question_for_Beginner

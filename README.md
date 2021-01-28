@@ -100,10 +100,14 @@ PR로 contribute해보세요!
 - JS 프레임워크 경험. 무엇을 왜 사용했나. 느낀 장단점.
 - “기획 - 디자인 - API 개발 - 프런트엔드 개발”의 서비스 절차에서 프런트엔드 개발자의 역할은 무엇이라고 생각하는가
 - 백엔드 개발 경험이 있는가
-  - REST API 구축 경험과 구`현 관점에서의 간단한 REST API 설계 방식 설명해 보세요. 브라우저의 URL 요청을 받아서 서버의 데이터를 화면에 다시 뿌려주기까지의 백엔드 쪽의 플로우를 알고 있는지 확인하는 차원.
+  - REST API 구축 경험과 구현 관점에서의 간단한 REST API 설계 방식 설명해 보세요. 브라우저의 URL 요청을 받아서 서버의 데이터를 화면에 다시 뿌려주기까지의 백엔드 쪽의 플로우를 알고 있는지 확인하는 차원.
 - 프론트엔드의 성능 최적화란? 관련 경험이 있다면 소개해달라.
 - 웹 서비스를 기획부터 배포까지 스스로 해본 경험이 있는가?
 
 ---
 
-Reference : https://github.com/JaeYeopHan/Interview_Question_for_Beginner
+## Reference
+
+- https://github.com/JaeYeopHan/Interview_Question_for_Beginner
+- https://github.com/yangshun/front-end-interview-handbook/blob/master/contents/kr/javascript-questions.md
+- https://joshua1988.github.io/web-development/interview/frontend-questions/#%EB%82%98%EC%98%AC-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%A7%88%EB%AC%B8
